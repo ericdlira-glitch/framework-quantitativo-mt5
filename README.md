@@ -1,7 +1,5 @@
 # Framework Quantitativo MT5
 
-# Framework Quantitativo MT5
-
 Projeto desenvolvido em Python para pesquisa, validação e execução automatizada de estratégias quantitativas integradas ao MetaTrader 5.
 
 ## Objetivo
@@ -93,6 +91,11 @@ Execução Automatizada
 Este projeto foi desenvolvido como parte do meu processo de aprendizado em Python, análise de dados e automação.
 
 Durante o desenvolvimento foram utilizadas ferramentas de Inteligência Artificial, principalmente ChatGPT, como apoio para estudo, revisão de código, esclarecimento de conceitos e aceleração do desenvolvimento.
+
+As regras de negócio, análise dos resultados, validação dos backtests, definição dos filtros operacionais e evolução das estratégias foram conduzidas de forma iterativa através de estudo, experimentação e testes sucessivos.
+
+O objetivo principal foi desenvolver conhecimento prático em programação, arquitetura de software, integração com APIs, automação e análise de dados.
+
 
 As regras de negócio, análise dos resultados, validação dos backtests, definição dos filtros operacionais e evolução das estratégias foram conduzidas de forma iterativa através de estudo, experimentação e testes sucessivos.
 
